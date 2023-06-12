@@ -1,0 +1,33 @@
+-- Hands On Interview Practice --
+
+This technical practical interview guide aims to enhance your confidence during the interview process.
+
+
+Please complete each task in order. Before completing, create a flipgrid account - you can download the app from the app store or google play store.
+
+- We will be using flipgrid to record videos for interview questions. Feedback will be provided to you from an instructor. 
+
+
+Task #1: 
+
+- Create a java maven project using, IntelliJ, VS Code, or Eclipse
+
+Add the following dependencies to your project
+
+* Latest version of Selenium Java Library
+* Latest version of Cucumber Java library
+* Latest Version of TestNG Library
+
+
+- Create a repository on your github account and name it Interview-Practice-YourName
+- Push the java project to the repository you created
+- Record a video of yourself explaining what you did, then answer the following questions
+
+- What is a maven project?
+- What is pom.xml?
+- What is a dependency?
+- What is GitHub?
+- What does git init do? Please explain as much as you can
+- What is the difference between Git and GitHub?
+- What is a main branch?
+
