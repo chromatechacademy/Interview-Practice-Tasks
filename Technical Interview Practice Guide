@@ -31,3 +31,67 @@ Add the following dependencies to your project
 - What is the difference between Git and GitHub?
 - What is a main branch?
 
+
+Task #2
+
+
+
+Great job on completing task #1
+
+Using the project you created in task #1
+
+
+- in the src/test/java, create a package called CTHMS
+
+- in the CTHMS package, create the following packages
+
+- Features
+
+- Steps
+
+- Pages
+
+- Runners
+
+- in the Features package, create a feature file called, 'CTHMS Login Scenarios.feature'
+
+- in 'CTHMS Login Scenarios.feature', compile the following scenarios:
+
+
+Scenario: CTHMS Login with valid credentials
+Given a CTHMS user is on the Login Page
+
+
+- in the Runners package, create a java class called 'RunCTHMSProgressionTest.java' and specify all attributes to a runners class(use your previous projects we used in class to help you)
+
+
+- add and commit your changes, then push to your github repo
+
+
+- Create a flip grid and answer the following questions:
+
+
+1. What is a Runners class?
+
+2. What are CucumberOptions?
+
+3. What is @RunWith in a Runners class
+
+4. What is the 'pretty' plugin option for?
+
+5. What is dryRun option?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
