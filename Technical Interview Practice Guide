@@ -15,7 +15,7 @@ Task #1:
 Add the following dependencies to your project
 
 * Latest version of Selenium Java Library
-* Latest version of Cucumber Java library
+* Version of Cucumber Java library we used in class
 * Latest Version of TestNG Library
 
 
@@ -82,11 +82,19 @@ Given a CTHMS user is on the Login Page
 5. What is dryRun option?
 
 
+Task #3:
 
+1. In the 'Steps' package create a class called 'CTHMS_Login_Steps'
 
+2. In the 'CTHMS_Login_Steps', implement the step from the scenario in Task 2
 
+3. Write code to log in using the following information:
 
+CTHMS URL:
 
+Credentials:
+Username:
+Password
 
 
 
