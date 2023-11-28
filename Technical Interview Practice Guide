@@ -21,7 +21,8 @@ Add the following dependencies to your project
 
 - Create a repository on your github account and name it Interview-Practice-YourName
 - Push the java project to the repository you created
-- Record a video of yourself explaining what you did, then answer the following questions
+
+- Record a video of yourself explaining what you did, then answer the following questions:
 
 - What is a maven project?
 - What is pom.xml?
@@ -90,16 +91,19 @@ Task #3:
 
 3. Write code to log in using the following information:
 
-CTHMS URL:
+CTHMS URL: https://mexil.it/chroma_tech_academy/hospital/site/login
 
 Credentials:
-Username:
-Password
+Username: admin@chroma.com
+Password: 123456
+
+4. Push your latest changes to your remote repository, your commit message should say "Task #3"
 
 
+- Record a video of yourself explaining what you did, then answer the following questions:
 
-
-
-
+- What are Step definitions?    
+- How can you implement a cucumber step? Is there more than one way?
+- For Task #3, why did you write code the way you did?
 
 
